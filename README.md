@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to play games / 
 
 ### Languages:
-[<img align="left" alt=Python" width="26px" scr="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg">]
+[<img align="left" alt="Python" width="26px" scr="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg">]
   
 <!--
 **BRiGHTeSS/BRiGHTeSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
