@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to play games / 
 
-### Languages
+### Languages:
 [<img align="left" alt=Python" width="26px" scr="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg">]
