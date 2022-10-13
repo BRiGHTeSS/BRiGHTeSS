@@ -18,7 +18,7 @@
 <a href=" " target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
 
 ### 📊 Github Stats
-<a href=' ' scr"https://github-readme-stats.vercel.app/api/top-langs/?username=BRiGHTeSS&layout=compact"></a>
+<a href='https://github-readme-stats.vercel.app/api/top-langs/?username=BRiGHTeSS&layout=compact'></a>
 
 
 <!--
