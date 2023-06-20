@@ -15,7 +15,7 @@
   <a href=" " target="_blank"><img alt="HTML" height ="42px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"></a>
   <a href=" " target="_blank"><img alt="CSS" height ="42px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></a>
   <a href=" " target="_blank"><img alt="JS" height ="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"></a>
-</h3><br><br>
+</h3><br>
 
 <h3 align="center">📚 Libraries:
   <br><br>
@@ -25,7 +25,7 @@
   <a href="" ><img alt="" height="42px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></a>
   <a href="" ><img alt="" height="42px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"></a>
   <a href="" ><img alt="" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
-</h3><br><br>
+</h3><br>
 
 <h3 align="center">🛠️ Tools:
   <br><br>
@@ -35,7 +35,7 @@
   <a href=" " target="_blank"><img alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
   
   
-</h3><br><br>
+</h3><br>
 
 
 
@@ -44,7 +44,7 @@
   <a href=" " target="_blank"><img alt="" height ="42px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"></a>
   <a href=" " target="_blank"><img alt="" height ="42px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"></a>
   <a href=" " target="_blank"><img alt="" height ="42px" src="https://logos-world.net/wp-content/uploads/2020/10/SoundCloud-Logo.png"></a>
-</h3><br><br>
+</h3><br>
 
 ---
 
