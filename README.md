@@ -10,29 +10,29 @@
 
 <h3 align="center">🌐 Languages:
 <br><br>
-  <a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <a href=" " target="_blank"><img alt="C++" height ="42px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png"></a>
-  <a href=" " target="_blank"><img alt="HTML" height ="42px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"></a>
-  <a href=" " target="_blank"><img alt="CSS" height ="42px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></a>
-  <a href=" " target="_blank"><img alt="JS" height ="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"></a>
+  <a href="https://www.python.org" target="_blank"><img alt="python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+  <a href="#" target="_blank"><img alt="c++" height ="42px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png"></a>
+  <a href="#" target="_blank"><img alt="html" height ="42px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"></a>
+  <a href="#" target="_blank"><img alt="css" height ="42px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"></a>
+  <a href="#" target="_blank"><img alt="javascript" height ="42px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png"></a>
 </h3><br>
 
 <h3 align="center">📚 Libraries:
   <br><br>
-  <a href="" ><img alt="" height="42px" src="https://www.pygame.org/docs/_images/pygame_tiny.png"></a>
-  <a href="" ><img alt="" height="42px" src="https://numpy.org/images/logo.svg"></a>
-  <a href="" ><img alt="" height="42px" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"></a>
-  <a href="" ><img alt="" height="42px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></a>
-  <a href="" ><img alt="" height="42px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"></a>
-  <a href="" ><img alt="" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
+  <a href="" ><img alt="pygame" height="42px" src="https://www.pygame.org/docs/_images/pygame_tiny.png"></a>
+  <a href="" ><img alt="numpy" height="42px" src="https://numpy.org/images/logo.svg"></a>
+  <a href="" ><img alt="pandas" height="42px" src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg"></a>
+  <a href="" ><img alt="matplotlib" height="42px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"></a>
+  <a href="" ><img alt="seaborn" height="42px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png"></a>
+  <a href="" ><img alt="react" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 </h3><br>
 
 <h3 align="center">🛠️ Tools:
   <br><br>
-  <a href=" " target="_blank"><img alt="Node.js" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" height ="42px" src="https://code.visualstudio.com/assets/images/code-stable.png"></a>
-  <a href=" " target="_blank"><img alt="Figma" height ="42px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a>
-  <a href=" " target="_blank"><img alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+  <a href=" " target="_blank"><img alt="nodejs" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="vscode" height ="42px" src="https://code.visualstudio.com/assets/images/code-stable.png"></a>
+  <a href=" " target="_blank"><img alt="arduino" height ="42px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a>
+  <a href=" " target="_blank"><img alt="figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
   
   
 </h3><br>
@@ -41,9 +41,9 @@
 
 <h3 align="center">📞 Get in touch:
 <br><br>
-  <a href=" " target="_blank"><img alt="" height ="42px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"></a>
-  <a href=" " target="_blank"><img alt="" height ="42px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"></a>
-  <a href=" " target="_blank"><img alt="" height ="42px" src="https://logos-world.net/wp-content/uploads/2020/10/SoundCloud-Logo.png"></a>
+  <a href="#" target="_blank"><img alt="discord" height ="42px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"></a>
+  <a href="https://www.instagram.com/bowornrat_t/" target="_blank"><img alt="ig" height ="42px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png"></a>
+  <a href="https://soundcloud.com/user-606295237" target="_blank"><img alt="soundcloud" height ="42px" src="https://logos-world.net/wp-content/uploads/2020/10/SoundCloud-Logo.png"></a>
 </h3><br>
 
 ---
